@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Aplicação desenvolvida no NLW Unite da Rocketseat na trilha FullStack.
+Aplicação desenvolvida no NLW Unite da Rocketseat na trilha React.
 </p>
 
 <p align="center">
