@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Aplicação desenvolvida no NLW Unite da Rocketseat na trilha React.
+Aplicação desenvolvida no NLW Unite da Rocketseat na trilha ReactJS.
 </p>
 
 <p align="center">
